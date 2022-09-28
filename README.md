@@ -1,13 +1,13 @@
 # Projet-A13-Test
-Dans ce projet je vais ecrire 3 poèmes. On va travailler en équipe.
+Dans ce projet je vais écrire 3 poèmes. On va travailler en équipe de 4.
 
-## Poeme1
+## Poème1
 sujet : la vie est belle
 
-## Poeme2 
-sujet : la vie s'analyse programmeur 
+## Poème2 
+sujet : la vie d'analyste programmeur 
 
-## Poeme3
+## Poème3
 sujet : La joie du partage et de la découverte 
 
 <img src="image.jpg" alt="description">
