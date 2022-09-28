@@ -2,7 +2,7 @@
 Dans ce projet je vais écrire 3 poèmes. On va travailler en équipe de 4.
 
 ## Poème1
-sujet : la vie est belle
+sujet : la vie est tres belle
 
 ## Poème2 
 sujet : la vie d'analyste programmeur 
